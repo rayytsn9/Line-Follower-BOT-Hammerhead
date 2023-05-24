@@ -2,9 +2,10 @@
 
 ## To Do
 
+- [x] Make core parts
 - [ ] Prototyping
 - [ ] Calibrate Error
-- [ ] ==Design Gearbox==
+- [ ] Design Gearbox
 - [ ] Solder
 
 ## C0DE
