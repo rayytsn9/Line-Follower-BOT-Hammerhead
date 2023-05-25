@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="path/to/css/retro.css">
+
 # __ECE5 Robot__
 
 ## To Do
