@@ -15,16 +15,16 @@
 
 ## Line Follow Runs
 
-https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a
+![frequencvy](https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a)
 
 
-https://github.com/rayytsn9/ROBOTT/assets/79029536/03f11198-2099-43b7-9afa-62fd8a964548
+![drag](https://github.com/rayytsn9/ROBOTT/assets/79029536/03f11198-2099-43b7-9afa-62fd8a964548)
 
 
-https://github.com/rayytsn9/ROBOTT/assets/79029536/affc948e-7007-4e54-9c02-0d4676050014
+![first test](https://github.com/rayytsn9/ROBOTT/assets/79029536/affc948e-7007-4e54-9c02-0d4676050014)
 
 
-https://github.com/rayytsn9/ROBOTT/assets/79029536/c35aae4e-ee51-477c-8de0-c97d28ab36d1
+![loop](https://github.com/rayytsn9/ROBOTT/assets/79029536/c35aae4e-ee51-477c-8de0-c97d28ab36d1)
 
 
 
