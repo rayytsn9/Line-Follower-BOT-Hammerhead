@@ -5,10 +5,17 @@
 ## To Do
 
 - [x] Make core parts
-- [ ] Prototyping
-- [ ] Calibrate Error
-- [ ] Design Gearbox
-- [ ] Solder
+- [x] Prototyping
+- [x] Solder
+- [x] Photoresistor Check
+- [x] Potentiometer Check
+- [x] Motordriver Check
+- [x] Calibration
+- [x] SPID 
+
+## First Line Follow Success
+
+
 
 ## C0DE
 
