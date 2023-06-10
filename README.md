@@ -23,8 +23,6 @@ https://github.com/rayytsn9/ROBOTT/assets/79029536/affc948e-7007-4e54-9c02-0d467
 
 https://github.com/rayytsn9/ROBOTT/assets/79029536/c35aae4e-ee51-477c-8de0-c97d28ab36d1
 
-
-
 ## C0DE
 
 > Photoresistor
