@@ -22,11 +22,11 @@
 
 ## Table of Contents
 
-[Prototyping]
-[Final Look]
-[Track Runs]
-[Basic Code]
-[SPID Values]
+[Prototyping](https://rayytsn9.github.io/ROBOTT/#prototyping)
+[Final Look](https://rayytsn9.github.io/ROBOTT/#final-form-of-our-robothammerhead)
+[Track Runs](https://rayytsn9.github.io/ROBOTT/#line-follow-runs)
+[Basic Code](https://rayytsn9.github.io/ROBOTT/#c0de)
+[SPID Values](https://rayytsn9.github.io/ROBOTT/#spid-values)
 
 ## Prototyping
 
@@ -54,6 +54,8 @@ For the loop track, we up P to around 40, I to about half of the potentiometer ,
 [![drag](https://i9.ytimg.com/vi/cw63CbNxSWM/mqdefault.jpg?sqp=CISxmKQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLD5u37Sq7N9b8_OaJJ2ZBmH0CHEAQ&retry=4)](https://youtu.be/cw63CbNxSWM)
 
 We kept the same PID value for the drag race but we up the speed up to about 250
+
+All in all our PID values are summed up in [SPID Values](https://rayytsn9.github.io/ROBOTT/#spid-values)
 
 ## C0DE
 
