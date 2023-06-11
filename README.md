@@ -1,5 +1,3 @@
-# __ECE5 Robot__
-
 ## To Do
 
 - [x] Make core parts
