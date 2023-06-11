@@ -18,11 +18,42 @@
 - Sofia Arroyo      (soarroyo@ucsd.edu)
 - Raynor Ananta     (rananta@ucsd.edu)
 
+<image src="https://github.com/rayytsn9/Line-Follower-BOT-Hammerhead/assets/79029536/32318eb7-bc3f-4322-8c93-a01640e690f9" width="400"></image>
+
+## Table of Contents
+
+[Prototyping]
+[Final Look]
+[Track Runs]
+[Basic Code]
+[SPID Values]
+
+## Prototyping
+
+Figuring out placement     |  Final Idea 
+:-------------------------:|:-------------------------:
+![](https://github.com/rayytsn9/Line-Follower-BOT-Hammerhead/assets/79029536/f412a0d4-6074-4d7c-b5cd-49b374564946)  | ![](https://github.com/rayytsn9/Line-Follower-BOT-Hammerhead/assets/79029536/f72352ea-f2c9-4f78-acc9-36c4e74c6833)
+
+
 ## Final FORM of our Robot:Hammerhead
 
 <image src="https://github.com/rayytsn9/ROBOTT/assets/79029536/a35f01ac-10e0-483e-9046-68278bccd44f" width="300"></image>
 
 ## Line Follow Runs
+
+>Click on each below to play video
+
+[![frequency](https://i9.ytimg.com/vi/RAdKmHk7j30/mqdefault.jpg?sqp=CISxmKQG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLCBzPTzDY5CZj3DWiLwFq2Je9ktqg)](https://youtube.com/shorts/RAdKmHk7j30?feature=share)
+
+The frequency track was the one where we struggled the most. We couldnt find a set PID values as we were constantly changing it throughout the track.
+
+[![loop](https://i9.ytimg.com/vi/nh014s09uxA/mqdefault.jpg?sqp=CISxmKQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGAgYChgMA8=&rs=AOn4CLD6gP7_2kr8I-Iawa7rJEax6lWvOw)](https://youtu.be/nh014s09uxA)
+
+For the loop track, we up P to around 40, I to about half of the potentiometer , and D to be relatively small
+
+[![drag](https://i9.ytimg.com/vi/cw63CbNxSWM/mqdefault.jpg?sqp=CISxmKQG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLD5u37Sq7N9b8_OaJJ2ZBmH0CHEAQ&retry=4)](https://youtu.be/cw63CbNxSWM)
+
+We kept the same PID value for the drag race but we up the speed up to about 250
 
 ## C0DE
 
@@ -195,3 +226,12 @@
       runMotorAtSpeed(RIGHT, 0);      /** FIX ME: stop motor 2 **/
       delay(3000); // stop for 3 seconds
     }
+
+## SPID Values
+
+| Element | Value |
+| ----------- | ----------- |
+| S | Drag: 250, Loop: Lower than drag, Frequency: Experiment |
+| P | Drag: 40, Loop: 40, Frequency: Experiment|
+| I | Drag: Half of potentiometer, Loop: Half of potentiometer, Frequency: Experiment|
+| D | Drag: relatively small, Loop: relatively small, Frequency: Experiment |
