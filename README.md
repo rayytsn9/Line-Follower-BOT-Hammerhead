@@ -11,15 +11,18 @@
 - [x] Calibration
 - [x] SPID 
 
+## Authors
+
+- Brandon Colvin    (brcolvin@ucsd.edu)
+- Yolanda Liu       (yul192@ucsd.edu)
+- Sofia Arroyo      (soarroyo@ucsd.edu)
+- Raynor Ananta     (rananta@ucsd.edu)
+
+## Final FORM of our Robot:Hammerhead
+
+<image src="https://github.com/rayytsn9/ROBOTT/assets/79029536/a35f01ac-10e0-483e-9046-68278bccd44f" width="300"></image>
+
 ## Line Follow Runs
-
-<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a"></video>
-
-<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/03f11198-2099-43b7-9afa-62fd8a964548"></video>
-
-<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/affc948e-7007-4e54-9c02-0d4676050014"></video>
-
-<video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/c35aae4e-ee51-477c-8de0-c97d28ab36d1"></video>
 
 ## C0DE
 
